@@ -8,7 +8,7 @@ I enjoy problem solving and aspire to be achieve great hights on codeforces and 
 
 
 You can connect with me on my [linkedin](https://www.linkedin.com/in/vivek-verma-b62272226/)
-and mail me on [vibhuvivekverma@gmail.com](vibhuvivekverma@gmail.com)
+and mail me on [vibhuvivekverma@gmail.com](mailto:vibhuvivekverma@gmail.com)
 <!--
 **vivekverma008/vivekverma008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
